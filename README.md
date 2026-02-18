@@ -41,8 +41,6 @@ Projeto desenvolvido para praticar:
 
 ## 🚀 Como rodar o projeto
 
-## 🚀 Como rodar o projeto
-
 ### 1️⃣ Clonar repositório
 
 ```bash
